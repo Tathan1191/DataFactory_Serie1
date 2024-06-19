@@ -1,0 +1,9 @@
+{
+	"name": "ADFCB-Tathan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "77de8964-e370-490c-a1a6-2c7c276e94de",
+		"tenantId": "6ca34ae1-466f-44bc-a7aa-0ac5a78c61b1"
+	}
+}
