@@ -1,0 +1,9 @@
+{
+	"name": "Bag-DataFactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f465629-2762-4487-8aec-ae19d33b1191",
+		"tenantId": "6ca34ae1-466f-44bc-a7aa-0ac5a78c61b1"
+	}
+}
